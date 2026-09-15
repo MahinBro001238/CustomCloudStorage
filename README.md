@@ -22,4 +22,6 @@ This app depends on Flask and natsort
 - To find your device IP: `ipconfig` on Windows, `ifconfig` or `ip a` on macOS/Linux, on Android go to Settings → Wi-Fi → tap your connected network → the IP address will be listed under the network details
 - Admin account verification is done directly through the data folder. Each user's account info is stored in a JSON file under their email folder where you can set `admin_verified` to `true` and assign `allocated_space_in_bytes`
 
+For support or questions, join my discord server: https://discord.gg/8yrbGUCFFD
+
 Licensed under the Apache License 2.0
